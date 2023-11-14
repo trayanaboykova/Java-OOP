@@ -40,6 +40,6 @@ public class Person {
 
     @Override
     public String toString() {
-        return String.format("%s %s gets %.01f leva.", firstName, lastName, salary);
+        return String.format("%s %s gets %f leva.", firstName, lastName, salary);
     }
 }
