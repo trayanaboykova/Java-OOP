@@ -2,12 +2,7 @@ package Course02_Encapsulation.Lab.P01_SortByNameAndAge;
 
 public class Person {
     private String firstName;
-
-
-
     private String	lastName;
-
-
     private int age;
 
     public Person(String firstName, String lastName, int age){
@@ -15,7 +10,6 @@ public class Person {
         this.lastName = lastName;
         this.age = age;
     }
-
 
     public String getFirstName() {
         return firstName;
@@ -28,5 +22,4 @@ public class Person {
     public String toString() {
         return String.format("%s %s is %d years old.", firstName, lastName, age);
     }
-
 }
