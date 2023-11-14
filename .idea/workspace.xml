@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P03_ValidationData/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P03_ValidationData/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P03_ValidationData/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P03_ValidationData/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P04_FirstAndReserveTeam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P04_FirstAndReserveTeam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P04_FirstAndReserveTeam/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P04_FirstAndReserveTeam/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P04_FirstAndReserveTeam/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Lab/P04_FirstAndReserveTeam/Team.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Course02_Encapsulation.Lab.P03_ValidationData.Main">
+  <component name="RunManager" selected="Application.Course02_Encapsulation.Lab.P04_FirstAndReserveTeam.Main">
     <configuration name="Course02_Encapsulation.Lab.P01_SortByNameAndAge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course02_Encapsulation.Lab.P01_SortByNameAndAge.Main" />
       <module name="JavaOOP" />
@@ -94,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Course02_Encapsulation.Lab.P04_FirstAndReserveTeam.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_Encapsulation.Lab.P04_FirstAndReserveTeam.Main" />
+      <module name="JavaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course02_Encapsulation.Lab.P04_FirstAndReserveTeam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course01_WorkingWithAbstraction.Lab.P02_PointInRectangle.Main" />
       <module name="JavaOOP" />
@@ -107,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01_RhombusOfStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_WorkingWithAbstraction.Lab.P01_RhombusOfStars" />
-      <module name="JavaOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course01_WorkingWithAbstraction.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Course02_Encapsulation.Lab.P04_FirstAndReserveTeam.Main" />
         <item itemvalue="Application.Course02_Encapsulation.Lab.P03_ValidationData.Main" />
         <item itemvalue="Application.Course02_Encapsulation.Lab.P01_SortByNameAndAge.Main" />
         <item itemvalue="Application.Course02_Encapsulation.Lab.P02_SalaryIncrease.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.P01_RhombusOfStars" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +142,7 @@
       <workItem from="1699431704265" duration="15486000" />
       <workItem from="1699617029804" duration="185000" />
       <workItem from="1699875425205" duration="701000" />
-      <workItem from="1699972785729" duration="7358000" />
+      <workItem from="1699972785729" duration="7684000" />
     </task>
     <servers />
   </component>
