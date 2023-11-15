@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P01_ClassBoxDataValidation/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <workItem from="1699617029804" duration="185000" />
       <workItem from="1699875425205" duration="701000" />
       <workItem from="1699972785729" duration="7795000" />
-      <workItem from="1700035930350" duration="782000" />
+      <workItem from="1700035930350" duration="1374000" />
     </task>
     <servers />
   </component>
