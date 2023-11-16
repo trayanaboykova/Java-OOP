@@ -27,6 +27,6 @@ public class Topping {
     }
 
     public double calculateCalories() {
-        return 2 * weight * toppingType.getModifier()/*getModifier()*/;
+        return 2 * weight * toppingType.getModifier();
     }
 }
