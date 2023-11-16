@@ -1,6 +1,7 @@
 package Course02_Encapsulation.Exercise.P05_FootballTeamGenerator;
 
 import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Main {
