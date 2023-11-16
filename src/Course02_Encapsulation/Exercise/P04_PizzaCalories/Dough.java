@@ -37,7 +37,7 @@ public class Dough {
     }
 
     public double calculateCalories() {
-        return (2 * weight) * flourType.getModifier() /*getFlourTypeModifier()*/ * bakingTechnique.getModifier() /*getBakingTechniqueModifier()*/;
+        return (2 * weight) * flourType.getModifier() * bakingTechnique.getModifier();
     }
 
     private static void errorMessage() {
