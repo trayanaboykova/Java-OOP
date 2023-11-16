@@ -1,6 +1,6 @@
 package Course02_Encapsulation.Exercise.P04_PizzaCalories;
 
-public class FlourType {
+public enum FlourType {
     White(1.5),
     Wholegrain(1.0);
 
