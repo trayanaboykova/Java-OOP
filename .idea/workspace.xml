@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="" />
+    <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/BakingTechnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/BakingTechnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Dough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/FlourType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/FlourType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Topping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/Topping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/ToppingType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_Encapsulation/Exercise/P04_PizzaCalories/ToppingType.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +149,7 @@
       <workItem from="1699972785729" duration="7795000" />
       <workItem from="1700035930350" duration="1970000" />
       <workItem from="1700069511999" duration="115000" />
-      <workItem from="1700125275781" duration="948000" />
+      <workItem from="1700125275781" duration="1253000" />
     </task>
     <servers />
   </component>
