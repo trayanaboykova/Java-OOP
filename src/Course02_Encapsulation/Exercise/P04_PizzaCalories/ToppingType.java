@@ -1,6 +1,6 @@
 package Course02_Encapsulation.Exercise.P04_PizzaCalories;
 
-public class ToppingType {
+public enum ToppingType {
     Meat(1.2),
     Veggies(0.8),
     Cheese(1.1),
