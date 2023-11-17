@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P03_PlayersAndMonsters/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P03_PlayersAndMonsters/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/CrossMotorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/CrossMotorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/FamilyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/FamilyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Motorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/RaceMotorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/RaceMotorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/SportCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P04_NeedForSpeed/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +151,7 @@
       <workItem from="1700035930350" duration="1970000" />
       <workItem from="1700069511999" duration="115000" />
       <workItem from="1700125275781" duration="8249000" />
-      <workItem from="1700226627110" duration="2636000" />
+      <workItem from="1700226627110" duration="2935000" />
     </task>
     <servers />
   </component>
