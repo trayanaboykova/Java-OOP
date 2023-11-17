@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="" />
+    <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P01_Person/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P01_Person/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P01_Person/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Inheritance/Exercise/P01_Person/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +145,7 @@
       <workItem from="1700035930350" duration="1970000" />
       <workItem from="1700069511999" duration="115000" />
       <workItem from="1700125275781" duration="8249000" />
-      <workItem from="1700226627110" duration="1306000" />
+      <workItem from="1700226627110" duration="1612000" />
     </task>
     <servers />
   </component>
