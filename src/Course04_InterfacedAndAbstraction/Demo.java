@@ -25,6 +25,5 @@ public class Demo {
        * Multiple Inheritance is not allowed in Java ( for more info see the diamond problem in Java and how it is overcome )
 
      */
-
     }
 }
