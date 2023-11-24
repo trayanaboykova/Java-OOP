@@ -1,4 +1,10 @@
 package Course04_InterfacedAndAbstraction.Exercise.P06_MilitaryElite;
 
-public class Engineer {
+import java.util.Collection;
+
+public interface Engineer extends SpecialisedSoldier {
+
+    Collection<RepairImpl> getRepairs();
+
+    void addRepair(RepairImpl repair);
 }
