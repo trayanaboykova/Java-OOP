@@ -11,6 +11,6 @@ public class Main {
                 seat.getColor(),
                 seat.getHorsePower()));
         System.out.println(seat.toString());
-        
+
     }
 }
