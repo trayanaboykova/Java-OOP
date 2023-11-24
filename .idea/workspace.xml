@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Lab/P01_CarShop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Lab/P01_CarShop/Car.java" afterDir="false" />
-    </list>
+    <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -150,7 +148,7 @@
       <workItem from="1700559929228" duration="1425000" />
       <workItem from="1700658003327" duration="301000" />
       <workItem from="1700725203593" duration="613000" />
-      <workItem from="1700815451879" duration="925000" />
+      <workItem from="1700815451879" duration="1532000" />
     </task>
     <servers />
   </component>
