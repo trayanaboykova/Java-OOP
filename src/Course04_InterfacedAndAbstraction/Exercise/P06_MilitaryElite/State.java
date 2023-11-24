@@ -1,4 +1,6 @@
 package Course04_InterfacedAndAbstraction.Exercise.P06_MilitaryElite;
 
-public class State {
+public enum State {
+    inProgress,
+    finished
 }
