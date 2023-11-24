@@ -1,4 +1,6 @@
 package Course04_InterfacedAndAbstraction.Exercise.P06_MilitaryElite;
 
-public class Private {
+public interface Private extends Soldier {
+
+    double getSalary();
 }
