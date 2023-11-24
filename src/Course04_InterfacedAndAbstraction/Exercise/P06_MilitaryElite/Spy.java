@@ -1,4 +1,5 @@
 package Course04_InterfacedAndAbstraction.Exercise.P06_MilitaryElite;
 
-public class Spy {
+public interface Spy {
+    String getCodeNumber();
 }
