@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Commando.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Commando.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/CommandoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/CommandoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Corp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Corp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Engineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/EngineerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/EngineerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/LieutenantGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/LieutenantGeneral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/LieutenantGeneralImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/LieutenantGeneralImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Mission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Mission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/MissionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/MissionImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Private.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Private.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/PrivateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/PrivateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Repair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Repair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/RepairImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/RepairImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Soldier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P06_MilitaryElite/Soldier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/Addable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/Addable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/MyListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/P07_CollectionHierarchy/MyListImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +153,7 @@
       <workItem from="1700559929228" duration="1425000" />
       <workItem from="1700658003327" duration="301000" />
       <workItem from="1700725203593" duration="613000" />
-      <workItem from="1700815451879" duration="6164000" />
+      <workItem from="1700815451879" duration="6474000" />
     </task>
     <servers />
   </component>
