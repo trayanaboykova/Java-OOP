@@ -1,4 +1,7 @@
 package Course04_InterfacedAndAbstraction.Exercise.P06_MilitaryElite;
 
-public class Repair {
+public interface Repair {
+    String getPartName();
+
+    int getHoursWorked();
 }
