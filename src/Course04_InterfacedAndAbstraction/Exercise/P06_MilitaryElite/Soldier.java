@@ -1,4 +1,9 @@
 package Course04_InterfacedAndAbstraction.Exercise.P06_MilitaryElite;
 
-public class Soldier {
+public interface Soldier {
+    int getId();
+
+    String getFirstName();
+
+    String getLastName();
 }
