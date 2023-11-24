@@ -1,4 +1,10 @@
 package Course04_InterfacedAndAbstraction.Exercise.P06_MilitaryElite;
 
-public class Commando {
+import java.util.Collection;
+
+public interface Commando extends SpecialisedSoldier {
+
+    Collection<MissionImpl> getMission();
+
+    void addMission(MissionImpl mission);
 }
