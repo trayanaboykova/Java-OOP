@@ -1,4 +1,5 @@
 package Course04_InterfacedAndAbstraction.Exercise.P07_CollectionHierarchy;
 
-public class Addable {
+public interface Addable {
+    int add(String item);
 }
