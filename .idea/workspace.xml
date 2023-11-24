@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84e088b8-0371-475f-a705-b2615aedf50c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Exercise/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Lab/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Lab/P01_CarShop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course04_InterfacedAndAbstraction/Lab/P01_CarShop/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -150,7 +150,7 @@
       <workItem from="1700559929228" duration="1425000" />
       <workItem from="1700658003327" duration="301000" />
       <workItem from="1700725203593" duration="613000" />
-      <workItem from="1700815451879" duration="618000" />
+      <workItem from="1700815451879" duration="925000" />
     </task>
     <servers />
   </component>
