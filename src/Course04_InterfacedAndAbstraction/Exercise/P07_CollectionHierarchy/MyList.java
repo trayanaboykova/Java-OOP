@@ -1,4 +1,5 @@
 package Course04_InterfacedAndAbstraction.Exercise.P07_CollectionHierarchy;
 
-public class MyList {
+public interface MyList extends AddRemovable {
+    int getUsed();
 }
