@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b25c198-134e-4fbf-b3ba-cd0d958a3286" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectId" id="2Za78gkwE8DXmIh95K3FFpQ6s7f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SpaceshipTests">
+    <configuration name="SpaceshipTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTests.testAddAstronautToFullSpaceshipShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="METHOD_NAME" value="testAddAstronautToFullSpaceshipShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTests.testGetCountShouldReturnZeroWhenSpaceshipIsCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="METHOD_NAME" value="testGetCountShouldReturnZeroWhenSpaceshipIsCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpaceshipTests" />
+        <item itemvalue="JUnit.SpaceshipTests.testAddAstronautToFullSpaceshipShouldThrowException" />
+        <item itemvalue="JUnit.SpaceshipTests.testGetCountShouldReturnZeroWhenSpaceshipIsCreated" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b25c198-134e-4fbf-b3ba-cd0d958a3286" name="Changes" comment="" />
+      <created>1702648181074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702648181074</updated>
+      <workItem from="1702648182304" duration="1179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BlueOrigin$SpaceshipTests_testGetCountShouldReturnZeroWhenSpaceshipIsCreated.ic" NAME="SpaceshipTests.testGetCountShouldReturnZeroWhenSpaceshipIsCreated Coverage Results" MODIFIED="1702648370855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>blueOrigin.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BlueOrigin$SpaceshipTests.ic" NAME="SpaceshipTests Coverage Results" MODIFIED="1702649325882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>blueOrigin.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
