@@ -29,3 +29,9 @@ All of the solutions have passed 100/100 - you can check them here: <a href="htt
 **<ins>Test Driven Development</ins>**: In the Test Driven Development (TDD) module, I practiced a development methodology where I wrote tests before writing the actual code. TDD promotes a systematic and disciplined approach to software development, ensuring that code is designed to meet specific requirements and is thoroughly tested from the outset.
 
 **<ins>Design Patterns</ins>**: In the Design Patterns module, I studied common design patterns such as Singleton, Factory, Observer, and more. These patterns provide proven solutions to recurring design problems in software development. By applying design patterns appropriately, I was able to create more maintainable, extensible, and efficient software architectures.
+
+Upon completing the "Java Object-Oriented Programming (OOP)" course, I have deepened my understanding of advanced Java programming concepts that revolve around object-oriented principles. This course provided me with an in-depth exploration of topics such as class design, inheritance, encapsulation, polymorphism, and abstraction in Java. Through engaging practical exercises and workshops, I have honed my skills and knowledge, positioning myself to excel in advanced Java OOP programming scenarios.
+
+# Certificate
+<a href="https://softuni.bg/certificates/details/200872/8f20f09f" rel="nofollow"><img src="https://github.com/trayanaboykova/JavaOOP/assets/101351760/607f7a4d-b064-40de-9653-53d1b9dc9c90" alt="Java OOP"></a>
+
