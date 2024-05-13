@@ -26,7 +26,7 @@ All of the solutions have passed 100/100 - you can check them here: <a href="htt
 
 **[Unit Testing](https://github.com/trayanaboykova/Java-OOP/tree/master/src/Lesson08_UnitTesting)**: In the Unit Testing module, I learned how to write and execute unit tests using frameworks like JUnit. Unit testing is a critical part of the software development process, allowing me to systematically test individual components of my code to ensure they function correctly in isolation. This practice enhances code quality and reduces the likelihood of introducing bugs.
 
-**<ins>Test Driven Development</ins>**: In the Test Driven Development (TDD) module, I practiced a development methodology where I wrote tests before writing the actual code. TDD promotes a systematic and disciplined approach to software development, ensuring that code is designed to meet specific requirements and is thoroughly tested from the outset.
+**[Test Driven Development](https://github.com/trayanaboykova/Java-OOP/tree/master/src/Lesson09_TestDrivenDevelopment)**: In the Test Driven Development (TDD) module, I practiced a development methodology where I wrote tests before writing the actual code. TDD promotes a systematic and disciplined approach to software development, ensuring that code is designed to meet specific requirements and is thoroughly tested from the outset.
 
 **<ins>Design Patterns</ins>**: In the Design Patterns module, I studied common design patterns such as Singleton, Factory, Observer, and more. These patterns provide proven solutions to recurring design problems in software development. By applying design patterns appropriately, I was able to create more maintainable, extensible, and efficient software architectures.
 
