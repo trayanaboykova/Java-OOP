@@ -1,4 +1,4 @@
-package org.rpg_lab;
+package Lesson08_UnitTesting.Lab.src.main.java.org.rpg_lab;
 
 public class Axe implements Weapon {
 

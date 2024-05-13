@@ -1,4 +1,4 @@
-package org.rpg_lab;
+package Lesson08_UnitTesting.Lab.src.test.java.org.rpg_lab;
 
 import org.junit.Before;
 import org.junit.Test;
