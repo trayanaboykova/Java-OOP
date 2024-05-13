@@ -1,10 +1,8 @@
 package Lesson09_TestDrivenDevelopment.Lab.src.main.java;
 
-import jdk.jshell.spi.ExecutionControl;
-
 import java.util.Iterator;
 
-public class Instock implements ProductStock {
+public class InStock implements ProductStock {
 
     @Override
     public int getCount() {
