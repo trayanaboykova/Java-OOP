@@ -21,7 +21,7 @@ Within the Interfaces and Abstraction module, I focused on two pivotal concepts 
 **[Polymorphism](https://github.com/trayanaboykova/Java-OOP/tree/master/src/Lesson05_Polymorphism)**: <br>
 In the Polymorphism module, I explored the concept of polymorphism in Java, which enables objects of different classes to be treated as objects of a common superclass. This powerful feature allowed me to write more flexible and extensible code. By using method overriding and interfaces, I could achieve runtime polymorphism, making my code adaptable to different scenarios and simplifying maintenance.
 
-**<ins>SOLID</ins>**: <br>
+**[SOLID](https://github.com/trayanaboykova/Java-OOP/tree/master/src/Lesson06_SOLID)**: <br>
 In the SOLID module, I learned about the SOLID principles, which are fundamental guidelines for writing clean and maintainable code. Each letter in SOLID represents a principle: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These principles helped me design software that is modular, flexible, and easy to extend, promoting good software architecture practices.
 
 **[Reflection and Annotation](https://github.com/trayanaboykova/Java-OOP/tree/master/src/Lesson06_ReflectionAndAnnotation)**: <br>
