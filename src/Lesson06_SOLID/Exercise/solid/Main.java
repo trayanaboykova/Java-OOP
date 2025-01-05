@@ -1,4 +1,4 @@
-package solid;
+package src.Lesson06_SOLID.Exercise.solid;
 
 public class Main {
 
