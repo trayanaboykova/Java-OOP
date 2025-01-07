@@ -4,7 +4,7 @@ Coding exercises and projects from my education at <a href="https://softuni.bg/"
 All of the solutions have passed 100/100 - you can check them here: <a href="https://judge.softuni.org/Contests/#!/List/ByCategory/186/Java-OOP">Java OOP</a>
 <br>
 
-<b> Course Curriculum: Java OOP </b>
+<b> Course Curriculum: [Java OOP Course](https://softuni.bg/trainings/4226/java-oop-oktober-2023) </b>
 
 **[Working with Abstraction](https://github.com/trayanaboykova/Java-OOP/tree/master/src/Lesson01_WorkingWithAbstraction)**: <br>
 In the Working with Abstraction module, I delved into the concept of abstraction. I learned how to abstract away complex details and create more manageable code. This included understanding abstract classes and methods, allowing me to implement abstraction effectively in Java.
